@@ -1,0 +1,5 @@
+Un ciudadano inicia sesión.
+Un usuario registra una incidencia.
+El sistema registra la incidencia.
+El sistema avisa sobre la situación
+El sistema genera un documento PDF con la petición.

@@ -1,0 +1,12 @@
+Causa
+id
+titulo
+descripcion
+fecha
+
+Reporte
+id
+causa_id
+Asunto
+fecha
+descripcion

@@ -1,0 +1,9 @@
+Durante el curso aprendí que la tecnología es una herramienta fundamental para fortalecer la participación 
+ciudadana y la organización comunitaria, ya que facilita la comunicación, la colaboración y la toma de 
+decisiones de manera más eficiente. También entendí la importancia de aplicar metodologías ágiles 
+para desarrollar soluciones adaptables a las necesidades de la comunidad, así como el uso de herramientas 
+de automatización y canales digitales para mejorar la interacción entre ciudadanos y organizaciones. 
+Además, aprendí que una plataforma de participación debe contar con bases de datos, autenticación de 
+usuarios y mecanismos de seguridad que protejan la información y garanticen la transparencia del proceso. 
+Estos conocimientos serán de importancia para mi porque me permiten reconocer cómo la tecnología puede contribuir 
+a construir comunidades más organizadas, participativas y comprometidas con el bienestar colectivo.
